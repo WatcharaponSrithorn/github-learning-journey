@@ -6,5 +6,5 @@ Learning my journey of practicing GitHub through GUI tools, with record Learning
 
 ---
 
-![Last Updated](https://img.shields.io/badge/last%20updated-2026--09--07-blue)
-![Days Logged](https://img.shields.io/badge/days%20logged-1-brightgreen)
+![Last Updated](https://img.shields.io/badge/last%20updated-2026--09--10-blue)
+![Days Logged](https://img.shields.io/badge/days%20logged-4-brightgreen)
