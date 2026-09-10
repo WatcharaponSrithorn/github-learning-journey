@@ -1,6 +1,7 @@
 ## 📅 Learning Log
 | Date | Topics | Summary Learning |
 |---|---|---|
+| 2026-09-10 | Git Ignore | Understand basic of Gitignore is file no commit to our Repository gitignore but coding in VS Code store about file config to secret or Junk files <br>[Link practice](https://github.com/WatcharaponSrithorn/github-learning-journey/commit/22f8c8ea5caabd9e6f26133ee19371d3861422ec) |
 | 2026-09-09 |Naming Commit | Understand "Commit" must specify type of event to commit as <br>Feat : Add new Featrue, <br>Fix : Edit bud ti incorrect, <br>Docs : Edit document on impact code, <br>Style : Formatting no impact logic, <br>Refactor : Improve code, <br>Test : Add or Edit test only |
 |  |  | sholde remove space inessential, No period (dot) is needed, Capitalize each paragraph, commit convention defined by your team <br>[Source for learning](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/) <br>[Link practice](https://github.com/WatcharaponSrithorn/github-learning-journey/commit/24dd1931973ff27c60108445797e60c1345da300)|
 | 2026-09-08 | Add , Delete |Can open file or folder from VS Code for Coding will Add or Delete file from VS Code next then Commit and push origin to GitHub GUI by can view past deletions in Github Web <br>[Link practice](https://github.com/WatcharaponSrithorn/github-learning-journey/commit/7b77219cf5b2e01796bf68056858464017d1deb1)|
