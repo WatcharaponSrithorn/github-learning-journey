@@ -2,6 +2,7 @@
 | Date | Topics | Summary Learning |
 |---|---|---|
 | 2026-09-11 | Branch | is copy file from main split it out for create feature new and no impact with file main. next then commit and push origin normal <br>[Link practice](https://github.com/WatcharaponSrithorn/github-learning-journey/commit/9ae58f94af6137d73cb85d7c94853203074e0f2d) |
+|  | Pull Request | This is request send code for PM review before click Merge to main or discuss in team view code to create <br>[Link practice](https://github.com/WatcharaponSrithorn/github-learning-journey/pull/1)|
 | 2026-09-10 | Git Ignore | Understand basic of Gitignore is file no commit to our Repository gitignore but coding in VS Code. Gitignore is store about file config to secret or Junk files <br>[Link practice](https://github.com/WatcharaponSrithorn/github-learning-journey/commit/22f8c8ea5caabd9e6f26133ee19371d3861422ec) |
 |  | Revert commit |Understand Revert change in commit and click undu next then edit <br>[Link practice](https://github.com/WatcharaponSrithorn/github-learning-journey/commit/e363d1a8625a77fbfbe4b0e6dd4c9f21ec703490)|
 | 2026-09-09 |Naming Commit | Understand "Commit" must specify type of event to commit as <br>Feat : Add new Featrue, <br>Fix : Edit bud ti incorrect, <br>Docs : Edit document on impact code, <br>Style : Formatting no impact logic, <br>Refactor : Improve code, <br>Test : Add or Edit test only |
