@@ -1,6 +1,7 @@
 ## 📅 Learning Log
 | Date | Topics | Summary Learning |
 |---|---|---|
+| 2026-09-14 | Interact GitHub <br>on Web Basuc |- Issues is Raise an issue <br>- Pull Request is discuss in team or verify code before merge to main <br>-Setting can Repository Rename, Collaborators and teams <br>- Profile can edit profile make it interesting <br>- Point green  is contributions can Reflects an active nature.|
 | 2026-09-12 | Practice Branch<br>Pull Request and Merge |By pocess follow as: <br> - Update current in main  <br> - Create new Branch by naming Feature-xxxx on Git GUI <br> - Create file in VS Code and coding <br> - Naming commit and write description next then click commit on Git GUI <br> - Click push origin in Branch on Git GUI <br> - Open Pull Request on web GitHub (New pull request -> Create pull request) <br> - Wait team or PM review code and improve as per comment on web GitHub <br> - Complete and approve click Merge on web GitHub  [Link practice](https://github.com/WatcharaponSrithorn/github-learning-journey/pull/2) |
 | 2026-09-11 | Branch | is copy file from main split it out for create feature new and no impact with file main. next then commit and push origin normal <br>[Link practice](https://github.com/WatcharaponSrithorn/github-learning-journey/commit/9ae58f94af6137d73cb85d7c94853203074e0f2d) |
 |  | Pull Request | This is request send code for PM review before click Merge to main or discuss in team view code to create <br>[Link practice](https://github.com/WatcharaponSrithorn/github-learning-journey/pull/1)|
