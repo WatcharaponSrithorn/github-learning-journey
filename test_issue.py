@@ -6,7 +6,7 @@ about_bp = Blueprint('about', __name__)
 
 COMPANY_INFO = {
     "name": "TechCorp",
-    "description": "Welcome to our Comapny! We build great software.",
+    "description": "Welcome to our Company! We build great software.",
     "founded_year": 2015
 }
 
