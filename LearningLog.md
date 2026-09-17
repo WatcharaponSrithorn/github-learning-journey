@@ -2,6 +2,7 @@
 | Date | Topics | Summary Learning |
 |---|---|---|
 | 2026-09-17 | Conflict |Understand bacis of word "Conflict" <br> When it happen : Doing it merge , create Pull Request click merge on web <br> Why : Edit the code on the same line, <br> Protect bacis :Use Pull Request + code review before merge into main branch , Pull code often , Commit often, conversation in team often |
+|  | Practice using Issue , <br> Pull Request |  Practice closes Issues by put Keyword "Closes #7" in process create Pull Request in field description , when Merge Issues will closes [Link practice](https://github.com/WatcharaponSrithorn/github-learning-journey/pull/8)||
 | 2026-09-16 | Issue | Understanding "Issue" basic is Task list or record problem create for Tracking Issue as have bug, have feature new to create, have task to must edit or improve or have Question about code or system <br> Issue include : <br> - Title <br> - Description <br> - Label/Tag <br> - Assignee <br> - Status [Link practice](https://github.com/WatcharaponSrithorn/github-learning-journey/issues/6)|
 | 2026-09-15 | Fork | Understanding "Fork" basic is copy project repository of Developer other into my Repository can edit and improve code by not impact |
 |  | GitHub Actions | Understanding "GitHub Actions" basic about Workflow Automated when have event occurs as i have push code system will run test automated before merge into main (While I may not yet understand every detail, I have a solid grasp of the overall concept  because I continue to learn more.)|
