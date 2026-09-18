@@ -6,7 +6,8 @@ password = input("Enter your password : ")
 if username == "admin" and password == "admin": # check if both 2 conditions are true
     print("Log in successful")
 elif username == "admin" and password != "admin":
-    print("password incorrect")
+    print("Log in sucessful")
+    print("You welcome in System Transport")
 elif username != "admin" and password == "admin":
     print("username incorrect")
 else:
