@@ -1,17 +1,21 @@
 def add(a, b):
+    # returns the sum of two numbers
     result = a+b
     return result
 
 def subtract(a, b):
+    # returns the difference of two numbers
     result = a-b
     return result
 
 def multiply(a, b):
+    # returns the product of two numbers
     result = a*b
     return result
 
 def divide(a, b):
-    if b == 0:
+    # returns the quotient of two numbers
+    if b == 0:  # Check for division by zero
         return "Error: Division by zero is not allowed."
     result = a/b
     return result
