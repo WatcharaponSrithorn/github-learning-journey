@@ -1,0 +1,23 @@
+def add(a, b):
+    result = a+b
+    return result
+
+def minus(a, b):
+    result = a-b
+    return result
+
+def multiply(a, b):
+    result = a*b
+    return result
+
+def divide(a, b):
+    if b == 0:
+        return "Error: Division by zero is not allowed."
+    result = a/b
+    return result
+
+print(add(2, 3))        # Output: 5
+print(minus(5, 2))      # Output: 3
+print(multiply(4, 3))   # Output: 12
+print(divide(10, 2))    # Output: 5.0
+print(divide(10, 0))    # Output: Error: Division by zero is not allowed.
